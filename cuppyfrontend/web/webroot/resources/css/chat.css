@@ -1,0 +1,21 @@
+
+.mainChatWindow {
+  
+}
+
+table {
+width:100%
+}
+
+.chatrooms {
+ float:left;
+position:absolute
+}
+.chat {
+ float:left;
+position:absolute
+}
+.users {
+ float:right;
+position:absolute
+}

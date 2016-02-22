@@ -1,0 +1,4 @@
+INSERT_UPDATE chatMessage;content[lang=en, unique=true];player(eMail)[unique=false]
+;test message 1;pille@mille.de;
+;test message 2;pille@mille.de;
+;test message 3;pille@mille.de;
